@@ -1,4 +1,4 @@
-![Github Profile Stats](https://github-readme-stats.vercel.app/api?username=<BiliennRuz>&show_icons=true&lang=FR)
+![Github Profile Stats](https://github-readme-stats.vercel.app/api?username=<GITHUB_BiliennRuz>&show_icons=true&lang=FR)
 
 ### Hi there 👋
 
