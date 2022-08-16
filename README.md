@@ -1,8 +1,8 @@
-![Github Profile Stats](https://github-readme-stats.vercel.app/api?username=BiliennRuz&show_icons=true&lang=FR&theme=bear)
+![Github Profile Stats](https://github-readme-stats.vercel.app/api?username=BiliennRuz&show_icons=true&lang=FR&theme=bear&count_private=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BiliennRuz&hide=javascript,css,scss,html&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BiliennRuz&hide=javascript,css,scss,html&theme=tokyonight&count_private=true)
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
+<img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png">
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/symfony/symfony.png"></code>
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
